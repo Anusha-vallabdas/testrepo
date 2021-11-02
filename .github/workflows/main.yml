@@ -94,4 +94,4 @@ az deployment group create \
 
 --parameters ppgName=ppg-Anusha \
 
---parameters location=centralus
+--parameters location=eastus
