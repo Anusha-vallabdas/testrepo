@@ -57,7 +57,7 @@ creds: ${{ secrets.AZURE_CREDENTIALS }}
 
 
 
-  - name: checkout source code
+ - name: checkout source code
 
 
 
